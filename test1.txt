@@ -1,1 +1,17 @@
 This is a file test1.txt.
+<<<<<<< HEAD
+=======
+
+adsfasf
+Update something in the master branch.....
+
+asfasdfsadf.
+
+
+
+
+
+
+
+asdfsadfasdddddddddddddddddddddddd
+>>>>>>> The file test1.txt has been committed.
